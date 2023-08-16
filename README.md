@@ -4,17 +4,17 @@ This is a web based html form for student enrollment using JsonPowerDB as Databa
 JsonPowerDB is used to perform CURD operation 
 
 # Benefits of using JsonPowerDB
-* Simple to use , real time database
-* Simplest way to retrieve data in a JSON format.
-* Backends code is not required for database 
+* Simple-to-use , real-time database
+* easiest way to retrieve data in JSON format
+Backend code is not required for databases.
 * No need for defining schema 
-* Querying the database is easy there is no need  of knowledge of SQL commands
+* Querying the database is easy; there is no need  of knowledge of SQL commands
 
-# TECH STACK USED
+# TECHNOLOGIES UTILIZED: 
 * HTML
 * CSS
 * JAVASCRIPT 
-* JsonPowerDB ( As Database)
+* JsonPowerDB (as a Database)
 
 # Screenshots:
 <img src="./images/changes in database after the operation.png">
