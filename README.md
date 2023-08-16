@@ -1,13 +1,13 @@
 # Student-Enrollment-Form
 ## Description 
-This is a web based html form for student enrollment using JsonPowerDB as Database 
+This is a web based html form for student enrollment using JsonPowerDB as the database. 
 JsonPowerDB is used to perform CURD operation 
 
 
 # Benefits of using JsonPowerDB
 * Simple-to-use , real-time database
 * easiest way to retrieve data in JSON format
-Backend code is not required for database 
+* Backend code is not required for databases.
 * No need for defining schema 
 * Querying the database is easy; there is no need  of knowledge of SQL commands
 
@@ -18,11 +18,13 @@ Backend code is not required for database
 * JsonPowerDB (as a Database)
 
 # Screenshots:
-<img src="/images/save_data_1.png">
-<img src="./images/database.png">
+<img src="./images/changes in database after the operation.png">
+<img src="./images/data saved successfully.png">
+<img src="./images/initial databse.png">
+<img src="./images/initial form.png">
+<img src="./images/operation-1(Save).png">
+<img src="./images/warning message.png">
 
-
-<img src="./images/Initial_home_page_look.png">
 
   # Sources
   * Introduction to JsonPowerDB - V2.0 course  on https://careers.login2explore.com/
